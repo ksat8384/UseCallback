@@ -1,0 +1,3 @@
+node_modules/
+*.java linguist-detectable=false 
+*.js linguist-detectable=true 
