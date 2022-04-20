@@ -1,8 +1,8 @@
-# UseMemo
+# UseCallback
  
-<h1>How to use useMemo in react-native.</h1>
+<h1>How to use useCallback in react-native.</h1>
 
-This example filters the users by their name.
+This example allows the user to add or remove a user to the list.
 
-Try it yourself: Typing something into the input field shouldn't trigger the logging, but executing the search with the button click will trigger it.
+
 
