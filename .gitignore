@@ -1,3 +1,7 @@
 node_modules/
-*.java linguist-detectable=false 
 *.js linguist-detectable=true 
+*.css linguist-detectable=false
+*.java linguist-detectable=false
+*.python linguist-detectable=false 
+*.html linguist-detectable=false  
+*.xml linguist-detectable=false 
